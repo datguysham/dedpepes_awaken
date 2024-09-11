@@ -9,5 +9,7 @@ In the spirit of cc0, the Ded Pepes Awaken collection will have the similar lice
 The assets to be minted are here: https://github.com/datguysham/dedpepes_awaken/tree/Assets
 
 Larger sized images for use can be found here:
+
 Mid sized 320x320 https://github.com/datguysham/dedpepes_awaken/tree/320x320
+
 Max sized 1600x1600 https://github.com/datguysham/dedpepes_awaken/tree/1600x1600
