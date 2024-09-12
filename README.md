@@ -1,6 +1,6 @@
 Ded Pepes Awaken is a free-and-fair mint collection inscribed on the Fractal Bitcoin network with a total of 666 32x32 sized assets.
 
-Based on the art by mekong, this is a derivative of the Ded Pepes CC0 Cursed Collection (https://x.com/dedpepes) which can be found on Magic Eden collated by community members (https://magiceden.io/ordinals/marketplace/dedpepes). 
+Based on the art by mkong, this is a derivative of the Ded Pepes CC0 Cursed Collection (https://x.com/dedpepes) which can be found on Magic Eden collated by community members (https://magiceden.io/ordinals/marketplace/dedpepes). 
 
 The discord link for the original collection can be found here (https://discord.gg/PdA8a5mw3d).
 
