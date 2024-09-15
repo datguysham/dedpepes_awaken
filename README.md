@@ -15,3 +15,5 @@ Larger sized images for use can be found here:
 Mid sized 320x320 https://github.com/datguysham/dedpepes_awaken/tree/320x320
 
 Max sized 1600x1600 https://github.com/datguysham/dedpepes_awaken/tree/1600x1600
+
+Max sized 1600x1600 CYAN background https://github.com/datguysham/dedpepes_awaken/tree/1600x1600-CYAN
