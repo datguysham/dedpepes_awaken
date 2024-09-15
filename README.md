@@ -6,7 +6,7 @@ The discord link for the original collection can be found here (https://discord.
 
 Images were downloaded from the official github (https://github.com/DedPepes/CursedDedPepes/tree/main/images) and the colors were individually inverted from the original negative image.
 
-In the spirit of cc0, the Ded Pepes Awaken collection will have the similar license for usage, and will be made available on inscribenow.io, at the limit of 3 mints per transaction.
+In the spirit of cc0, the Ded Pepes Awaken collection will have the similar license for usage, and was made available on inscribenow.io https://fractal.inscribenow.io/collections/69bd65c3aefcf514
 
 The assets to be minted are here: https://github.com/datguysham/dedpepes_awaken/tree/Assets
 
