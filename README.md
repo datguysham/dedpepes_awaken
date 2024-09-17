@@ -41,7 +41,7 @@ Larger sized images for use can be found here:
 
 <div align="center">
 
-![DEDPEPES AWAKEN](https://github.com/user-attachments/assets/d81c2aa4-199b-4e3b-ac0b-8e4f11bd7927)
+![dedpespeAWAKEN](https://github.com/user-attachments/assets/13c7c145-239f-45b2-8d22-0190bec7080e)
 
 <div align="center">
 
