@@ -53,6 +53,7 @@ The collection was listed on these marketplaces:
 - [Unisat marketplace](https://fractal.unisat.io/market/collection?collectionId=dedpepes_awaken) on September 17. Announcement post is [here](https://x.com/DedPepes_Awaken/status/1835971807775723839).
 - [OKX marketplace](https://www.okx.com/web3/marketplace/nft/collection/fractal/dedpepes-awaken) on September 18. Announcement post is [here](https://x.com/DedPepes_Awaken/status/1836438666589409719).
 - [Fractals.market marketplace](https://fractals.market/collections/dedpepes-awaken) on September 22. Announcement post is [here](https://x.com/dedpepes_awaken/status/1837952988209688673).
+- [OrdinalsWallet marketplace](https://fractal.ordinalswallet.com/collection/dedpepes_awaken) on September 29. Announcement post is [here](https://x.com/DedPepes_Awaken/status/1840452314492256349).
 
 ## Assets
 
