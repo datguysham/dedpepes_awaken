@@ -48,6 +48,7 @@ It is possible that once 21,000 blocks passed on fractal bitcoin, this collectio
 
 It reached the first 100 FB volume on the same day less than 4 hours after it got listed on market. Announcement post is [here](https://x.com/DedPepes_Awaken/status/1836027053038264757).
 
+## Marketplaces
 
 The collection was listed on these marketplaces: 
 - [Unisat marketplace](https://fractal.unisat.io/market/collection?collectionId=dedpepes_awaken) on September 17. Announcement post is [here](https://x.com/DedPepes_Awaken/status/1835971807775723839).
