@@ -48,6 +48,8 @@ It is possible that once 21,000 blocks passed on fractal bitcoin, this collectio
 
 It reached the first 100 FB volume on the same day less than 4 hours after it got listed on market. Announcement post is [here](https://x.com/DedPepes_Awaken/status/1836027053038264757).
 
+The collection is now included in the community-run [fractal ecosystem website](https://fractalecosystem.io/projects/dedpepes-awaken) (X account is [@fractaleco](https://x.com/fractaleco)) which lists all the known projects. Announcement post is [here](https://x.com/DedPepes_Awaken/status/1841505346067878185).
+
 ## Marketplaces
 
 The collection was listed on these marketplaces: 
